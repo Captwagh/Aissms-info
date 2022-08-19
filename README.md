@@ -1,2 +1,4 @@
-# Aissms-info
-brief info of aissms college on a website using bootstrap
+# AISSMS Info
+Brief info of AISSMS College of Engineering on a website using Bootstrap 5.
+
+Basic use of HTML and Bootstrap for developing a basic website that can be used to display brief information of AISSMS COE.
